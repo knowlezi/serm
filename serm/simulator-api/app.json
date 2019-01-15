@@ -1,0 +1,7 @@
+{
+  "name": "serm",
+  "description": "Simulating the Effects of Releasing Malware",
+  "repository": "https://github.com/jmknwls/serm",
+  "logo": "",
+  "keywords": ["Malware", "Simulator"]
+}

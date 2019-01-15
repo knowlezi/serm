@@ -1,0 +1,48 @@
+
+.simulator-container {
+    position: fixed;
+    z-index: 700;
+    bottom: 0;
+    width: 100%;
+    height: 35%;
+}
+
+.simulator-history {
+    height: 55%;
+    margin: 15px;
+    padding: 10px;
+}
+
+.simulator-history-headers h2 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    float: left;
+}
+
+.simulator-history-content {
+    font-family: 'Roboto Mono', monospace;
+    height: 85%;
+    width: 100%;
+    font-weight: 100;
+    font-size: 10px;
+}
+
+.simulator-toolbar {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.simulator-info {
+    font-family: 'Roboto Mono', monospace;
+    float: right;
+    text-align: right;
+    font-weight: 100;
+    font-size: 10px;
+    overflow: hidden;
+}
+
+.simulator-info p {
+    margin: 0;
+    padding: 0;
+}
